@@ -7,13 +7,7 @@ import java.awt.Image;
 import java.awt.event.*;
 import java.awt.event.*;
 import java.sql.ResultSet;
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-import javax.swing.JPasswordField;
-import javax.swing.JTextField;
+import javax.swing.*;
 
 
 public class Login extends JFrame implements ActionListener{
